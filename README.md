@@ -1,1 +1,6 @@
-# dt-developer-test-dgermanovich
+# dt-developer-test-dgermanovich (Галерея Изображений)
+
+## Информация
+1. В проекте использовал Google guice для внедрения зависимостей.
+Google guice был выбран из-за его простоты по сравнению с spring.
+2. Реализовал тестирование утилитного метода при помощи TestNG.
